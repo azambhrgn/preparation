@@ -1,0 +1,38 @@
+Graph-
+
+1- BFS
+2- DFS
+3- Primes algo (also using priority queue)
+4- Krushal algo
+5- Djikstra algo
+6- Hamilton cycle
+7- Floyed warshell algo
+8- Connect the cities 
+9- Shortest path problem
+10- Traveling salesman problem
+11- Bridges in graph
+12- Graph coloring
+13- Count all possible walks from a source to a destination with exactly k edges
+14- Print all paths from a given source to a destination
+15- Applications of Breadth First Traversal
+16- K Centers Problem
+17- Karger’s algorithm for Minimum Cut
+18- Minimum time required to rot all oranges
+19- Detect Cycle in a direct graph using colors
+20- Topological Sorting
+21- Longest Path in a Directed Acyclic Graph
+22- Clone an Undirected Graph
+
+
+
+Patteren Searching -
+
+1- KMP algo
+2- Rabin Karp
+3- Finite automata
+4- Suffix tree
+5- Anagram Substring Search (Or Search for all permutations)
+6- Pattern Searching using a Trie of all Suffixes
+7- Ukkonen’s Suffix Tree Construction
+8- Suffix Tree Applications
+9- Manacher’s Algorithm – Linear Time Longest Palindromic Substring

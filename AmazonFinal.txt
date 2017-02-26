@@ -1,0 +1,117 @@
+http://www.geeksforgeeks.org/trapping-rain-water/
+http://www.geeksforgeeks.org/print-left-view-binary-tree/
+http://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/
+http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+http://www.geeksforgeeks.org/count-ways-reach-nth-stair/
+http://www.geeksforgeeks.org/trie-insert-and-search/
+http://www.geeksforgeeks.org/kth-smallest-element-in-a-row-wise-and-column-wise-sorted-2d-array-set-1/
+http://www.geeksforgeeks.org/minimum-number-of-swaps-required-for-arranging-pairs-adjacent-to-each-other/
+Size of Largest subarray with given sum (http://www.geeksforgeeks.org/find-subarray-with-given-sum/)
+http://www.geeksforgeeks.org/find-number-of-islands/
+Replace every element by its Immediate greater element (http://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/)
+Find Minimum in each k sized window
+http://www.geeksforgeeks.org/count-possible-decodings-given-digit-sequence/
+Find level with maximum nodes on binary tree
+Addition of infinite size of integer
+Pivoted array search,  modified that array can have duplicate values need to return first occurance of element. (http://www.geeksforgeeks.org/count-number-of-occurrences-in-a-sorted-array/)
+Number of bits we need to flip from A to get B.
+Given a set of time intervals in any order, Print all the pair of overlapping intervals .
+	http://www.geeksforgeeks.org/merging-intervals/
+	http://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/
+	http://www.geeksforgeeks.org/find-the-point-where-maximum-intervals-overlap/
+Given a string and he asked me to find Longest Repeated Substring in the given string. (http://www.geeksforgeeks.org/longest-repeating-subsequence/)
+Given a mXn matrix with no obstacle and we can move in right or down direction. Count the no of paths to reach from top left cell to bottom right.
+http://www.geeksforgeeks.org/generate-unique-partitions-of-an-integer/ (http://ideone.com/SGyL2h)
+http://www.geeksforgeeks.org/dynamic-programming-set-5-edit-distance/
+Find maximum sum rectangle in given matrix. 
+http://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/
+http://www.geeksforgeeks.org/print-possible-strings-can-made-placing-spaces/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+http://www.geeksforgeeks.org/maximum-size-sub-matrix-with-all-1s-in-a-binary-matrix/
+http://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+	
+---------------------------------------------------------------------------------------------------------------------------------------------------
+	
+http://www.geeksforgeeks.org/cpp-implementation-minesweeper-game/
+http://www.geeksforgeeks.org/lexicographic-permutations-of-string/
+telephone pad problem
+http://stackoverflow.com/questions/14094914/count-the-number-of-occurrences-of-a-number-in-a-sorted-array.
+ http://www.geeksforgeeks.org/merging-intervals/
+ http://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/ .
+ http://www.geeksforgeeks.org/stock-buy-sell/
+ http://www.geeksforgeeks.org/the-stock-span-problem/ 
+ a. Find all anagrams of a given string.
+The question is simple but there was a twist,the file size was 1TB.Interviewer asked me to optimize the solution.I gave a HashMap solution where key was the length of strings in the file and value was number of such strings.
+Finally,I was able to solve the question with Trie data structure.
+b. Given a Hotel and checkin/Checkout time of visitors, find the maximum numbers of rooms required. (different version of Trains/Platform question)
+c. Given two strings print all possible permutations of two strings such that the order of characters are maintained.
+I gave a topological sort solution and then a recursive solution.
+.Given an array,generate all valid ip address from the array.
+Find the longest palindromic substring in a string
+Q1 : Given a M*N matrix . you have to start from Index(0,0) and reach to Index(M-1,N-1) with maximum sum , given the constraint that you can only move right or down i.e if you are at index (i,j), you can only move to index(i,j+1) or to index(i+1,j)
+Given some resources in the form of linked list you have to canceled out all the resources whose sum up to 0(Zero) and return the remaining list.
+subset sum problem i.e; Given an array find the maximum sum contiguous subarray.
+Next Largest Number with same set of digits (http://www.geeksforgeeks.org/find-next-greater-number-set-digits/)
+http://www.geeksforgeeks.org/find-zeroes-to-be-flipped-so-that-number-of-consecutive-1s-is-maximized/
+http://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/ (https://www.careercup.com/question?id=5106425965576192)
+http://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/ 
+http://www.geeksforgeeks.org/find-the-longest-substring-with-k-unique-characters-in-a-given-string/
+http://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/
+Find smallest positive missing number from an array of positive numbers.
+3 points of a triangle are given. Find if given forth point lies inside or outside of the triangle.
+Given sequentially placed boxes, each representing a number( which may be positive or negative), we need to select the numbers in order to have the maximum sum, 
+	having the constraint that if we seelct a given box, we cannot select adjacent box to it, but can select any other.
+Given 2 numbers, add them without using any arithmetic operator.
+   
+   1. Given a file having many lines of text(words) and given a dictionary having an API function boolean isValid(String word), which will return true is a word passed to this function is valid word in dic.,and will return false if given passed argument is not a valid word in dic.
+
+Now read the file and check if each word as well as all possible words from its L to R and R to L combinations, are valid words in dic. or not.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+http://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/
+http://www.geeksforgeeks.org/merge-k-sorted-arrays/
+http://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/
+Given a very large binary number which cannot be stored in a variable, determine the remainder of the decimal equivalent of the binary number when divided by 3(http://www.geeksforgeeks.org/amazon-interview-experience-set-261-sde1/)
+ http://www.geeksforgeeks.org/largest-rectangle-under-histogram/
+ http://www.geeksforgeeks.org/maximum-sum-path-across-two-arrays/
+  https://www.careercup.com/question?id=5638261762424832
+  http://geeksquiz.com/stack-set-4-evaluation-postfix-expression/
+  http://www.geeksforgeeks.org/find-a-peak-in-a-given-array/
+   http://www.geeksforgeeks.org/clone-binary-tree-random-pointers/
+   Maximum triangle path Sum : Starting from the top of a pyramid of numbers like below, you can walk down going one step on the right or on the left, until you reach the bottom row:(http://www.geeksforgeeks.org/amazon-interview-experience-set-259-1-yr-experienced-for-sde1/)
+   Find next greater element for every element of an array to its right in O(n).
+Given a 1D array where each cell represents a toll gate ticket value. Find the minimum number of tickets needed to surpass the whole array (means till u reach the end of array) .
+If ticket value is 1 then u can pass that cell alone. If ticket value is 2 u can pass that cell and the next cell.. that is how ticket values work.
+http://www.geeksforgeeks.org/next-greater-element/
+You have been given a grid with some doors, walls and some empty spaces.
+1st part : You have to tell the least no of moves to go from random position in the grid to the nearest door. You can move in four directions only, i.e, left, right, above, below.
+ http://www.geeksforgeeks.org/find-excel-column-name-given-number/
+ http://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/
+1. Given an array find the minimum difference between any pair.(http://www.geeksforgeeks.org/find-minimum-difference-pair/)
+http://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion 
+http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem
+ http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem.
+ In an integer array, find the window with maximum sum
+ Bottom View of binary tree
+ 
+ 
+ 
+ There are billions of URL given. Come up with a efficient data structure that returns ip address of these urls.
+ 
+ 
+ Tree-
+  http://www.geeksforgeeks.org/maximum-width-of-a-binary-tree/
+  http://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
+   http://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/
+   http://www.geeksforgeeks.org/find-distance-two-given-nodes/
+   http://www.geeksforgeeks.org/check-two-nodes-cousins-binary-tree
+   http://www.geeksforgeeks.org/clone-binary-tree-random-pointers/
+   http://www.geeksforgeeks.org/maximum-difference-between-node-and-its-ancestor-in-binary-tree/
+   2) Given only a Node of a Binary Tree, Find the next in-order successor in O(1) space. Root of tree is unknown.
+As he told to assume anything except the position of root, To solve the problem I assumed that the Treenodes also contain parent pointers to their respective parent.
+http://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/

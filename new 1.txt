@@ -1,0 +1,10 @@
+http://www.geeksforgeeks.org/minimum-number-of-swaps-required-for-arranging-pairs-adjacent-to-each-other/
+http://www.geeksforgeeks.org/suffix-tree-application-3-longest-repeated-substring/
+http://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+http://www.geeksforgeeks.org/print-possible-strings-can-made-placing-spaces/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays/
+http://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+http://www.geeksforgeeks.org/cpp-implementation-minesweeper-game/
+http://www.geeksforgeeks.org/lexicographic-permutations-of-string/
+http://www.geeksforgeeks.org/the-stock-span-problem/ 

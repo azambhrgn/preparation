@@ -1,0 +1,66 @@
+Dp problem types -
+
+Type 0 -
+1- Largest sum contigous and non contigous sub array
+2- maximum size square sub-matrix with all 1s
+3- The Fibonacci numbers
+4- Min cost path
+5- length of the longest substring without repeating characters
+6- Longest Bitonic Subsequence
+7- Floyd Warshall Algorithm
+8- Partition problem
+9- Maximum Length Chain of Pairs
+10- Subset Sum Problem
+11- Largest Independent Set Problem
+12- Maximum sum rectangle in a 2D matrix
+13- Dice Throw
+13- Longest Arithmetic Progression
+14- Maximum Product Cutting
+
+
+Easy 
+1- Count number of ways to cover a distance
+2- Find the longest path in a matrix with given constraints
+3- 
+
+
+Type 1- 
+
+1- coin change http://algorithms.tutorialhorizon.com/dynamic-programming-coin-change-problem/
+2- rod cut
+3- Longest Increasing Subsequence
+4- Minimum number of jumps to reach end
+5- Maximum Sum Increasing Subsequence
+
+6- 0-1 Knapsack Problem
+7- Egg Dropping Puzzle
+8- Building Bridge (https://people.cs.clemson.edu/~bcdean/dp_practice/)
+9- Box Stacking Problem
+
+
+type 2 -
+
+1- Longest common Subsequence
+2- Edit distance
+3- Minimum insertions to form a palindrome
+4- Longest Common Substring
+
+
+type 3-
+
+1- Matrix chain multiplication
+2- longest palindrome subsequence
+3- Palindrome Partitioning
+4- Longest Palindromic Substring
+5- 
+
+
+
+
+http://www.geeksforgeeks.org/dynamic-programming-set-32-word-break-problem/
+type 4- other
+ 1- Optimal Binary Search Tree
+ 2- Bellman–Ford Algorithm
+ 3- Optimal Strategy for a Game
+ 4- Assembly Line Scheduling
+ 5- Partition a set into two subsets such that the difference of subset sums is minimum

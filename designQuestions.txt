@@ -1,0 +1,45 @@
+DP probems-
+
+Design an automobile system -> two/three/four wheeler, petrol/diesel/gas, gear/non-gear and classifications like this
+
+Design Movie tickets booking system
+Class diagram with all relevant classes & associations
+find out all use cases
+describe a typical flow of events
+show how each use case is handled using your class diagram (selection of seats, payment etc)
+how would system be designed such that you can show the user complete cinema hall with all seats in their respective locations.
+write a service for a front end controller which will let users to select multiple seats according to their preference. Already booked seats & available seats should be marked differently.
+how will the cost of a booking be determined (I used decorator pattern for it)
+
+
+Design a system having multiple jobs, interacting with each other such that (use a DAG for this problem):
+a job can run for very long periods (1-2 days)
+a node can fail/crash on which certain job is running
+system should be scalable
+amount of data getting transferred is huge
+data in the system is very sensitive and needs security
+job/s can fail
+
+Design a system for a Building having various Access Points & Users having multiple levels of access
+Class diagram with all entities, relationships
+how will you achieve scalability? (handle the system when the number of users accessing it is very high at the same time)
+write all the necessary services required
+how will you handle the scenario when a person misplaces his card
+how will the scenario for visitors entering the building be handled?
+
+design a s/w for game shop in shopping mall.
+Description: The game shop will distribute preloaded cards. That card needs to be used to play any game. if the card has balance the cardholder will be allowed to play the game.
+
+2. Design chessboard. I was asked to write all the classes.
+
+Design a phone book, make search as efficient as possible.. Only approach was required on how will we store multiple numbers,
+multiple websites, multiple email ids etc and how will we search efficiently.. Many approaches were discussed: Linear Search, Binary Search then TRIE.
+
+Design a network packet class.. Class designing for Request, Response and Timeout Packets.
+
+Design a contact list, full production level working code was required for all methods. How will we store the contacts, what classes will we use, how will we search.
+
+Design a software to make a reservation at a chain of restaurants. All restaurants are in same Timezone. (He just wanted the class diagram)
+
+Design undo and redo operation in Microsoft Word like text editor.
+Design Hit Counter. (Design Hit Counter)
