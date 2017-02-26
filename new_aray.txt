@@ -1,0 +1,249 @@
+Two string a haystack and needle is given find at what all indexes needle occurs in haystack as an anagram(0 based indexing)
+for eg:
+INPUT
+ABACDABCABA
+BA
+OUTPUT
+0,15,8,9
+time complexity O(n) expected. The only thing to pay attention was that ASCII characters starts from A
+
+Given A company’s hierarchy where each employee reports to exactly one manager. and one manager can be reported by multiple employees, implement necessary setter getter functions in object oriented way. also write a helper instance methods to return lowest common manager for two given employees
+answer to this question was simple but had to write object oriented code and zip it then upload it.
+
+Given an array of words which comes in a dictionary of some language in the same order.
+tell if its possible?
+ans. represent characters of words as a graph and find out if graph is cyclic (cycle in directed graph)
+
+A) given an array of integers and two types of queries point update and range sum?
+ans: I said binary indexed tree then he asked for other ways I said segment tree, He asked more , I said prefix array or sqrt decomposition.
+he asked me to write code for the same. made some variations like lazy propagation.
+B)topological sorting. given a words of dictionary tell alphabet ordering.
+
+You are given an array of size n. Now print the number of distinct elements in the array for every frame of size k.
+
+A binary tree and a number, say k are given. Print every path in the tree with sum of the nodes in the path as k.(A path can start from any node and end at any node, i.e. they need not be root node and leaf node; and negative numbers can also be there in the tree)
+
+ A linked list is given in which every node has two pointers, one to its next node and the other one, random pointer, pointing to some other node in the linked list.You have to clone the given linked list.
+
+ -------------------
+OS-
+Q1 . What is critical section problem and how is it solved?
+Q2 . What is Semaphore?
+Q3 . What is race condition?
+Q4 . What is write lock and what are the conditions of it?
+Q5 . What are threads and processes?
+
+--------------------- 
+
+Ques 1 : A browser is being designed and you have to implement the history feature in that, which will have two functions, one is to fetch recent 100 urls ( getHistory() ), and other one to update that recent 100 urls list whenever a url is hit ( updateHistory() ).
+Ques 2 : An array is given and it can be of four types :
+(a). increasing
+(b). decreasing
+(c). first increasing then decreasing
+(d). first decreasing then increasing
+Without traversing the array we need to tell its type.There was a long discussion on this question.
+
+--------------
+
+There is a number given in the form of a string.Number can be any long.Now I have to tell just greater number of the given number which is a palindrome also.
+Sol : http://www.geeksforgeeks.org/given-a-number-find-next-smallest-palindrome-larger-than-this-number/
+
+-------------------
+
+Check whether the tree is BST. (O(n) time).
+Check whether the Linked List is Palindrome. (O(1) space).
+One array (Array 1) of size m with m sorted elements and another array (Array 2) of size (m + n) with n sorted elements, you have to put all the elements from both the arrays in Array 2 in sorted order. (O(1) auxiliary space and O(m + n) time).
+
+--------------------
+
+Given a stack of integers of size n, you have to sort it using only push and pop operations (you are not allowed to copy the numbers in auxiliary array and sort it and then push back in array). (I gave O(n^2) approach and O(1) auxiliary space).
+Stepping on stairs: A valid move is defined as either a single step or 2 steps. Starting from 1st stair you have to reach nth stair in minimum valid moves. I gave dp approach then rolled down it to Fibonacci formula which can be solved in O(log(n)) time using Matrix Exponentiation.
+Stepping numbers: A stepping number is defined as a number in which the absolute difference between the consecutive digits is not greater than 1, A stepping number cannot be a single digit number. You have to find the number of stepping numbers between n1 and n2 where n2 > n1 and n2, n1 > 0. First I gave brute force approach i.e. traverse from n1 to n2 and print i if i is a stepping number. They asked me to optimize it, after a little while I came up with BFS solution, where a node in graph (directed) represents a number and nodes directly connected to it have one more digit appended at the end. Stop when number dequeued from the queue is greater than n2.
+Iterative version of Tower of Hanoi. I gave stack version of TOH. Since recursion uses recursion stack. I removed recursion and used stack to imitate recursion instead. They were satisfied with the solution.
+
+
+---------------------
+
+
+In any point of time print the first non-repeating number in a stream of numbers. It took me quite a while and after little brainstorming I came up with solution using DLL and map.
+Delete node in a BST. I had forgotten how it was done so again I had to think hard, realized that deleted node must be replaced with its inorder successor to maintain the BST property and coded the solution.
+
+-----------------------
+
+Discussion on all the OS scheduling Algorithms.
+
+Return a maximum length sequence containing consecutive numbers from a binary tree. i.e. http://www.geeksforgeeks.org/amazon-interview-experience-set-322-off-campus/
+
+How class is loading in JVM:- Discussed about eden, perm space. using graph and BSF & DFS.
+
+A ‘plus’ pattern of size 1 is defined as following : (http://www.geeksforgeeks.org/amazon-interview-experience-set-315/)
+
+----------------
+
+http://www.geeksforgeeks.org/find-the-smallest-window-in-a-string-containing-all-characters-of-another-string/
+
+-----------------
+
+How HashMap is implemented? (https://tekmarathon.com/2012/12/04/hashmap-internal-implementation-analysis-in-java/
+
+-----------------------
+
+Multiply two numbers represented as a linked list.
+
+____________________
+
+Write a program to check whether it is a valid binary tree or not.
+
+---------------
+There given a list of strings out which we have to print the unique strings. Unique string is a string which is not repeated.
+
+-------------
+
+There given a 2 Lists with int values. We need to find the longest chain. Eg: L1 = { 2,7,4,8,9,10}, L2 = {1,2,8,9,4}.
+ Here the solution is 2 (chain is 2,4 or 8,9). Because 7 is present in L1 which is not L2.
+
+Given a equi-weighted uni directed graph and need to find the max distance possible from a given node.
+
+---------------
+
+Find level with maximum nodes on binary tree
+Addition of infinite size of integer
+
+----------------
+
+ Remove half nodes from binary tree
+ Swap elements in linked list
+ 
+ ------------------
+ 
+Pivoted array search,  modified that array can have duplicate values need to return first occurance of element.
+
+Is pair of given values present in BST or not?
+
+----------
+Check if pair is present in array or not. modified to return all unique pair in it.
+Integer stream is coming find largest K element.(K is fixed)
+Design a DS where below operation is performed in O(1) time.
+Insert
+Delete
+Search
+GetRandom
+
+----------
+ Max sum tree . every node has its value plus maximum of left and right sub tree sum.
+ 
+ -------
+ 
+ http://www.geeksforgeeks.org/suffix-tree-application-3-longest-repeated-substring/
+ 
+ -----------
+ 
+ Count all possible paths from top left to bottom right of a mXn matrix
+ 
+ -----------
+ 
+ http://www.geeksforgeeks.org/generate-unique-partitions-of-an-integer/
+ 
+ ---------------
+ 
+  http://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/
+  
+  ------------
+  
+   http://www.geeksforgeeks.org/print-possible-strings-can-made-placing-spaces/
+   
+   ------------
+   
+   http://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/
+   
+   ----------
+   
+    http://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+	
+	---------
+	
+	http://www.geeksforgeeks.org/find-distance-two-given-nodes/
+	----------
+	
+	In a city with millions of people, I want to sort them on the basis of their age. Which Sorting Algorithm would you use and why ?
+	
+	-----------
+	
+	
+http://stackoverflow.com/questions/2205540/algorithm-to-transform-one-word-to-another-through-valid-words
+--------
+
+http://www.geeksforgeeks.org/find-a-pair-with-given-sum-in-bst/
+
+---------
+
+http://www.geeksforgeeks.org/level-order-traversal-in-spiral-form/.
+
+---------
+
+http://www.geeksforgeeks.org/lexicographic-permutations-of-string/
+
+---------
+
+http://www.geeksforgeeks.org/add-greater-values-every-node-given-bst/
+
+------------
+
+ Find a row with maximum number of 1s in a
+binary sorted matrix.
+
+-----------
+
+Given only a Node of a Binary Tree, Find the next in-order successor in O(1) space. Root of tree is unknown.
+As he told to assume anything except the position of root, To solve the problem I assumed that the Treenodes also contain parent pointers to their respective parent.
+-----------
+
+1) Given a Binary Tree. Print its elements vertically. Solved it using Horizontal Distance concept and hashmap.
+http://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/
+2) Variation of above question, you are not allowed to use Hashmap. Discussed many approaches. He applied a constraint of not using any Hashing, after a lot of discussion and variations came up with the solution as a Doubly Linked List of List of Nodes. Since I was not allowed to use hashing, the variation I did to solve was to maintain a global pointer to the doubly linked list, moved it left in doubly linked list for the left child of current treenode and move right for right child of current tree-node.
+
+--------------------
+
+http://www.geeksforgeeks.org/given-sorted-dictionary-find-precedence-characters/
+
+-------------------
+
+Given an array of distinct integers, find if there are two pairs (a, b) and (c, d) such that a+b = c+d, and a, b, c and d are distinct elements. If there are multiple answers, then print any of them. Expected complexity :  O(n2
+
+Ex : 3,4,7,1,2,9,8
+Output : (3,8) and (4,7)
+
+--------
+http://www.geeksforgeeks.org/clone-binary-tree-random-pointers/
+
+------------
+http://www.geeksforgeeks.org/maximum-difference-between-node-and-its-ancestor-in-binary-tree/
+
+--------------
+
+https://www.careercup.com/question?id=5638261762424832
+
+-----------
+
+Convert a sorted array to binary search tree.
+
+---------
+
+There are billions of URL given. Come up with a efficient data structure that returns ip address of these urls
+
+-----------
+
+ http://www.geeksforgeeks.org/maximum-difference-between-node-and-its-ancestor-in-binary-tree/
+ 
+ -------
+ 
+http://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/
+
+-------
+
+http://www.geeksforgeeks.org/count-negative-numbers-in-a-column-wise-row-wise-sorted-matrix/
+
+--------
+
+
+
