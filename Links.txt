@@ -1,0 +1,44 @@
+Useful links
+
+
+1- Design 
+https://github.com/checkcheckzz/system-design-interview
+
+http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/
+
+http://highscalability.com/
+
+
+
+http://techstacks.io/stacks
+https://www.draw.io/
+http://asciiflow.com/
+
+
+Problems-
+http://highscalability.com/
+
+https://a2oj.com/categories
+https://plus.google.com/u/1/communities/108868943712030139628/stream/98731ed1-f6e1-4d9c-8d6b-ce2de173ef48
+
+
+
+Topics:
+
+Scalability-
+http://www.lecloud.net/tagged/scalability
+
+Load balancer-
+https://www.nginx.com/resources/glossary/load-balancing/
+http://www.tecmint.com/setting-up-pound-web-server-load-balancing-in-linux/
+
+Sharding-
+https://www.youtube.com/watch?v=FwJ7bJaan7Y
+https://www.youtube.com/watch?v=4upppuW7lGE
+
+
+Recomdation engine
+https://www.youtube.com/watch?v=1JRrCEgiyHM&t=630s
+https://www.youtube.com/watch?v=TSv6eLAOt78
+
+
