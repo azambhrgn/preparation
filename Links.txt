@@ -48,4 +48,15 @@ https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/1
 Facebook mysql -
 https://www.youtube.com/watch?v=jqwegP9xwVE
 
+compression
+https://en.wikipedia.org/wiki/Snappy_(compression)
+https://en.wikipedia.org/wiki/Comparison_of_file_archivers
+
+
+Redis
+Memcached
+LevelDB
+riak
+
+
 
