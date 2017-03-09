@@ -41,4 +41,11 @@ Recomdation engine
 https://www.youtube.com/watch?v=1JRrCEgiyHM&t=630s
 https://www.youtube.com/watch?v=TSv6eLAOt78
 
+Facebook TOA-
+https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson
+https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920
+
+Facebook mysql -
+https://www.youtube.com/watch?v=jqwegP9xwVE
+
 
