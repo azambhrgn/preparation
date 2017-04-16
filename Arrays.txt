@@ -1,0 +1,15 @@
+http://www.geeksforgeeks.org/constant-time-range-add-operation-array/
+http://www.geeksforgeeks.org/sum-of-all-subarrays/
+http://www.geeksforgeeks.org/check-exist-two-elements-array-whose-sum-equal-sum-rest-array/
+http://www.geeksforgeeks.org/range-queries-for-frequencies-of-array-elements/
+http://www.geeksforgeeks.org/duplicates-array-using-o1-extra-space-set-2/
+http://www.geeksforgeeks.org/sum-products-possible-subsets/
+http://www.geeksforgeeks.org/three-way-partitioning-of-an-array-around-a-given-range/
+http://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
+http://www.geeksforgeeks.org/make-two-sets-disjoint-removing-minimum-elements/
+http://www.geeksforgeeks.org/divide-array-two-sub-arrays-averages-equal/
+http://www.geeksforgeeks.org/break-array-maximum-number-sub-arrays-averages/
+http://www.geeksforgeeks.org/find-three-element-from-different-three-arrays-such-that-that-a-b-c-k/
+http://www.geeksforgeeks.org/find-a-partition-point-in-array/
+
+http://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/
